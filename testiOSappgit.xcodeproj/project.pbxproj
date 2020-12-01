@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DF5BAE712575F52D004F4631 /* SearchVC.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF5BAE702575F52D004F4631 /* SearchVC.storyboard */; };
 		DF7E35742575EB97007C1B02 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF7E35732575EB97007C1B02 /* AppDelegate.swift */; };
 		DF7E35762575EB97007C1B02 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF7E35752575EB97007C1B02 /* SceneDelegate.swift */; };
 		DF7E35782575EB97007C1B02 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF7E35772575EB97007C1B02 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DF5BAE702575F52D004F4631 /* SearchVC.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SearchVC.storyboard; sourceTree = "<group>"; };
 		DF7E35702575EB97007C1B02 /* testiOSappgit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testiOSappgit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF7E35732575EB97007C1B02 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DF7E35752575EB97007C1B02 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				DF7E35752575EB97007C1B02 /* SceneDelegate.swift */,
 				DF7E35772575EB97007C1B02 /* ViewController.swift */,
 				DF7E35792575EB97007C1B02 /* Main.storyboard */,
+				DF5BAE702575F52D004F4631 /* SearchVC.storyboard */,
 				DF7E357C2575EB99007C1B02 /* Assets.xcassets */,
 				DF7E357E2575EB99007C1B02 /* LaunchScreen.storyboard */,
 				DF7E35812575EB99007C1B02 /* Info.plist */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DF7E35802575EB99007C1B02 /* LaunchScreen.storyboard in Resources */,
+				DF5BAE712575F52D004F4631 /* SearchVC.storyboard in Resources */,
 				DF7E357D2575EB99007C1B02 /* Assets.xcassets in Resources */,
 				DF7E357B2575EB97007C1B02 /* Main.storyboard in Resources */,
 			);
