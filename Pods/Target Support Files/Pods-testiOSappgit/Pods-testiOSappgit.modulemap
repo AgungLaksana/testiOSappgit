@@ -1,0 +1,6 @@
+framework module Pods_testiOSappgit {
+  umbrella header "Pods-testiOSappgit-umbrella.h"
+
+  export *
+  module * { export * }
+}
