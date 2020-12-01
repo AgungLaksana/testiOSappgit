@@ -15,8 +15,20 @@
                     <view key="view" contentMode="scaleToFill" id="WCf-bt-BAq">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Ini search" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zGM-3n-f1a">
+                                <rect key="frame" x="170.5" y="437.5" width="73" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="JPb-iY-vQL"/>
                         <color key="backgroundColor" systemColor="systemIndigoColor"/>
+                        <constraints>
+                            <constraint firstItem="zGM-3n-f1a" firstAttribute="centerX" secondItem="WCf-bt-BAq" secondAttribute="centerX" id="jZn-jm-Ihl"/>
+                            <constraint firstItem="zGM-3n-f1a" firstAttribute="centerY" secondItem="WCf-bt-BAq" secondAttribute="centerY" id="uql-ns-Nfr"/>
+                        </constraints>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="V7m-Lm-cPo" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
